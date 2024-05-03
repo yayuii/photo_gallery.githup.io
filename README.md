@@ -1,27 +1,33 @@
-# Information regarding this project repository
-
-## Goals
-  The goal of this project is to display a solid understanding of how utilize javascript, HTML5 and CSS3 to a lightbox plugin for displaying images in a photo gallery. Additionally add the ability to filter the images via a search filter for filtering out only images matching the search string. This project provided only a desktop mockup, leaving the design and development of the layout for screen sizes relevant to mobile and tablet devices on the student.
-
-## Languages
+# المعلومات المتعلقة بمستودع المشروع هذا
+## الأهداف
+  الهدف من هذا المشروع هو عرض فهم قوي لكيفية استخدام جافا سكريبت وHTML5 وCSS3 في مكون إضافي خفيف لعرض الصور في معرض الصور. بالإضافة إلى ذلك، أضف القدرة على تصفية الصور عبر مرشح البحث لتصفية الصور المطابقة لسلسلة البحث فقط. لم يوفر هذا المشروع سوى نموذج بالحجم الطبيعي لسطح المكتب، مما ترك تصميم وتطوير التخطيط لأحجام الشاشة ذات الصلة بالأجهزة المحمولة والأجهزة اللوحية على الطالب.
+## اللغات
   1. HTML5
   2. CSS3
   3. Client side Javascript
 
-## Technologies and Techniques
-  1. Chrome Dev Tools
-  2. Editors
-  3. Terminal
-  4. git and github
-  5. Mobile First Responsive Design
-  6. Fluid width Responsive Design
-  7. Dom manipulation
-  8. Lightbox plugin for displaying images and captions
-  9. Javascript driven search filter
+## التقنيات والتقنيات
+  1. أدوات كروم ديف
 
-## Techdegree Project Description
-  In this project, you will create an interactive photo gallery using JavaScript and jQuery. Thumbnails and photos will be provided with descriptions. At the top of the page you'll have a search area where photos will hide and show depending on user input. When the user clicks on a thumbnail, the photo will display in a lightbox. There should be a back and previous arrows to cycle through photos.
+2. المحررون
 
-  **NOTE:** _The Front End Web Development Techdegree is meant to train you in HTML, CSS and JavaScript, and let you practice and show your mastery of these fundamental building blocks of the web. Because of that, please avoid using frameworks like Bootstrap, Foundation, Skeleton, and so on for this project. Even though you may end up using frameworks like these professionally, you still need to know and be able to implement designs with your own knowledge of HTML, CSS and JavaScript._
+3. محطة
 
-  _In addition, please avoid submitting any projects that rely on a server-side technology like PHP or Ruby on Rails._
+4. git وgithub
+
+5. التصميم المتجاوب الأول للهاتف المحمول
+
+6. تصميم متجاوب لعرض السوائل
+
+7. التلاعب بدوم
+
+8. المكون الإضافي Lightbox لعرض الصور والتعليقات التوضيحية
+
+9. مرشح البحث المدفوع بجافا سكريبت
+## وصف مشروع Techdegree
+
+في هذا المشروع، ستقوم بإنشاء معرض صور تفاعلي باستخدام JavaScript وjQuery. سيتم تزويد الصور المصغرة والصور بالأوصاف. في أعلى الصفحة، سيكون لديك منطقة بحث حيث ستخفي الصور وتظهر اعتمادا على مدخلات المستخدم. عندما ينقر المستخدم على صورة مصغرة، سيتم عرض الصورة في صندوق ضوئي. يجب أن يكون هناك سهام خلفية وسابقة للتنقل عبر الصور.
+
+**ملاحظة:** _ يهدف برنامج Front End Web Development Techdegree إلى تدريبك على HTML و CSS و JavaScript، وتتيح لك الممارسة وإظهار إتقانك لهذه اللبنات الأساسية للويب. لهذا السبب، يرجى تجنب استخدام أطر مثل Bootstrap و Foundation و Skeleton وما إلى ذلك لهذا المشروع. على الرغم من أنك قد ينتهي بك الأمر باستخدام أطر عمل مثل هذه بشكل احترافي، إلا أنك لا تزال بحاجة إلى معرفة التصميمات والقدرة على تنفيذها بمعرفتك الخاصة ب HTML و CSS و JavaScript. _
+
+بالإضافة إلى ذلك، يرجى تجنب تقديم أي مشاريع تعتمد على تقنية من جانب الخادم مثل PHP أو Rupy on Rails. _
